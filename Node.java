@@ -1,5 +1,3 @@
-import java.*;
-
 public class Node {
     private Object item;
     private Node next;
